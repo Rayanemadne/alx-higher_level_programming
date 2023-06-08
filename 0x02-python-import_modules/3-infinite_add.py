@@ -6,8 +6,7 @@ if __name__ == "__main__":
     """ print the sum of arguments """
     import sys
 
-    n = len(sys.argv) - 1
     sum = 0
-    for i in range(n):
+    for i in range(len(sys.argv) - 1):
         sum = sum + int(sys.argv[i + 1])
     print("{}".format(sum))
