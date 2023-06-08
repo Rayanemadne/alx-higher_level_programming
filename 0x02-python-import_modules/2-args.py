@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 # RAYANE - MAD
-if __name__ == "__main__":
-    import sys
 
+if __name__ == "__main__":
+    """Print arguments"""
+    import sys
 
     n = len(sys.argv) - 1
     if n == 0:
