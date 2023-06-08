@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-#RAYANE - MAD
-
 if __name__ == "__main__":
     """ print the sum of arguments """
     import sys
