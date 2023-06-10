@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+# Rayane - mad
 def divisible_by_2(my_list=[]):
     result = []
     for i in range(len(my_list)):
