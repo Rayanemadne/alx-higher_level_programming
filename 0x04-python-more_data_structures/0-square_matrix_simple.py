@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#RAYANE - MAD
 def square_matrix_simple(matrix=[]):
     new_matrix = matrix.copy()
 
