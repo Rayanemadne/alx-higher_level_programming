@@ -2,6 +2,7 @@
 
 """ everything is square """
 
+
 class Square:
     """ a square class """
     pass
